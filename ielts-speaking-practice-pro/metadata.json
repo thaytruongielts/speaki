@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Speaking Practice Pro",
+  "description": "An application to practice for the IELTS Speaking test. Get a question, type your answer within a 2-minute time limit, and receive an AI-powered evaluation with a sample response. You can also record and download your spoken answer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
